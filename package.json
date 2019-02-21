@@ -1,6 +1,6 @@
 {
   "name": "react-rich-text-editor",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "",
   "main": "./build/index.js",
   "repository": {
@@ -26,17 +26,12 @@
     "re-resizable": "^4.9.2",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
-    "react-google-login": "^3.2.1",
     "react-html-parser": "^2.0.2",
-    "react-redux": "^5.0.7",
     "react-router-dom": "^4.3.1",
     "react-scripts": "2.0.4",
     "react-select": "^2.1.0",
     "react-show-more": "^2.0.0",
-    "react-summernote": "^2.0.0",
     "reactstrap": "^6.5.0",
-    "redux": "^4.0.0",
-    "redux-thunk": "^2.3.0",
     "summernote": "^0.8.10"
   },
   "scripts": {
@@ -52,7 +47,7 @@
   "author": {
     "name": "Rajnish Katharotiya"
   },
-  "license" :"ISC",
+  "license": "ISC",
   "keywords": [
     "text-editor",
     "multi-language text editor",
